@@ -1,0 +1,176 @@
+[
+    {
+        "ID": 1,
+        "name": "Learn Social Media Marketing",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/53_512x342.jpg?v=1683099350",
+        "price": 20
+    },
+    {
+        "ID": 2,
+        "name": "Learn R",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/41_512x342.jpg?v=1683099077",
+        "price": 20
+    },
+    {
+        "ID": 3,
+        "name": "Learn NumPy",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/46_512x342.jpg?v=1683098989",
+        "price": 20
+    },
+    {
+        "ID": 4,
+        "name": "Learn Pandas",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/43_512x342.jpg?v=1683099028",
+        "price": 20
+    },
+    {
+        "ID": 5,
+        "name": "Learn C++",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_24_512x342.jpg?v=1681910386",
+        "price": 45
+    },
+    {
+        "ID": 6,
+        "name": "Learn Cyber Security",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/51_512x342.jpg?v=1683098908",
+        "price": 45
+    },
+    {
+        "ID": 7,
+        "name": "Learn Accessibility",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/52_512x342.jpg?v=1683098841",
+        "price": 45
+    },
+    {
+        "ID": 8,
+        "name": "Learn C#",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_28_512x342.jpg?v=1681910297",
+        "price": 45
+    },
+    {
+        "ID": 9,
+        "name": "Learn Typescript",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/45_512x342.jpg?v=1683099384",
+        "price": 45
+    },
+    {
+        "ID": 10,
+        "name": "Building Modern Python Apps on AWS",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/python_aws_512x342.png?v=1687159467",
+        "price": 45
+    },
+    {
+        "ID": 11,
+        "name": "AWS DevOps: Code, Build, and Test",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/aws-devops-logo_512x342.png?v=1687165828",
+        "price": 45
+    },
+    {
+        "ID": 12,
+        "name": "Learn HTML",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_11_512x342.jpg?v=1681912971",
+        "price": 95
+    },
+    {
+        "ID": 13,
+        "name": "Learn CSS",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_14_9277eb01-fc60-4a24-9d75-822cde7a66bf_512x342.jpg?v=1681910410",
+        "price": 95
+    },
+    {
+        "ID": 14,
+        "name": "Learn JavaScript",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_15_512x342.jpg?v=1681910570",
+        "price": 95
+    },
+    {
+        "ID": 15,
+        "name": "Learn Python",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_60_512x342.jpg?v=1681915916",
+        "price": 95
+    },
+    {
+        "ID": 16,
+        "name": "Learn jQuery",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/47_512x342.jpg?v=1683098954",
+        "price": 95
+    },
+    {
+        "ID": 17,
+        "name": "Learn SQL",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_17_512x342.jpg?v=1681910655",
+        "price": 95
+    },
+    {
+        "ID": 18,
+        "name": "Learn PHP",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/44_512x342.jpg?v=1683099054",
+        "price": 95
+    },
+    {
+        "ID": 19,
+        "name": "Learn Bootstrap 3",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/50_512x342.jpg?v=1683098861",
+        "price": 95
+    },
+    {
+        "ID": 20,
+        "name": "Learn XML",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/48_512x342.jpg?v=1683099569",
+        "price": 95
+    },
+    {
+        "ID": 21,
+        "name": "Learn Java",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/42_512x342.jpg?v=1683098928",
+        "price": 95
+    },
+    {
+        "ID": 22,
+        "name": "Learn React.js",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/EevyProduktbilder_73_512x342.jpg?v=1683099324",
+        "price": 95
+    },
+    {
+        "ID": 23,
+        "name": "Learn Bootstrap 4",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/files/49_512x342.jpg?v=1683098883",
+        "price": 95
+    },
+    {
+        "ID": 24,
+        "name": "Learn Web Design",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_5_61c6499b-129f-4a73-b96f-ea2a5657f4f8_512x342.jpg?v=1681910744",
+        "price": 140
+    },
+    {
+        "ID": 25,
+        "name": "Learn Front end Development",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_4_512x342.jpg?v=1681910497",
+        "price": 190
+    },
+    {
+        "ID": 26,
+        "name": "Learn Data Analytics",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_8_512x342.jpg?v=1681910436",
+        "price": 190
+    },
+    {
+        "ID": 27,
+        "name": "Learn Web Application Development",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_1_512x342.jpg?v=1681910695",
+        "price": 295
+    },
+    {
+        "ID": 28,
+        "name": "Learn Modern Web Development",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_1_beb2bff4-ed92-42ed-b1ae-e704f5dd0922_512x342.jpg?v=1681913025",
+        "price": 295
+    },
+    {
+        "ID": 29,
+        "name": "W3Schools Full Access",
+        "photo": "https://cdn.shopify.com/s/files/1/0274/1783/7625/products/EevyProduktbilder_12_49931d85-4729-417e-a511-5b454b0f5d52_512x342.jpg?v=1681910782",
+        "price": 695
+    }
+]
